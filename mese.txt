@@ -1,0 +1,12 @@
+4 0
+3 1
+7 1
+8 0
+5 1
+3 0
+16 1
+8 0
+
+# indexul liniei reprezintă numărul mesei
+# primul număr de pe linie reprezintă capacitatea mesei
+# al doilea număr de pe linie reprezintă disponibilitatea acesteia, unde 0 înseamnă liberă și 1 înseamnă rezervată
